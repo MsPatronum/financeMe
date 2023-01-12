@@ -1,9 +1,16 @@
 # route_example
 
-Projeto para exemplo do uso de rotas no Flutter utilizando a biblioteca go_router.
+A new Flutter project.
 
-Para adicionar a biblioteca em seu projeto e acompanhar o código aqui descrito, abrir seu projeto e digitar no seu terminal:
+## Getting Started
 
-```sh
-$ flutter pub add go_router
-```
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
